@@ -5,4 +5,5 @@
 
 ### All made by Meowbix on Makecode Arcade. All rights go to Mojang Studio.
 <br><br>
-<img width="378" height="285" alt="image" src="https://github.com/user-attachments/assets/af27b102-2d63-447f-b6e0-81e636aafd30" />
+
+<img width="490" height="372" alt="20260829-1951-17 9507167" src="https://github.com/user-attachments/assets/42299aca-f136-4b7a-a3cc-a06356e81db2" />
