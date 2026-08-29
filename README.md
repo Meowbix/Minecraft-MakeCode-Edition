@@ -6,6 +6,4 @@
 ### All made by Meowbix on Makecode Arcade. All rights go to Mojang Studio.
 <br><br>
 
-<img width="490" height="372" alt="Minecraft Test V1 1" src="https://github.com/user-attachments/assets/8f44add5-4e4a-4ce3-b523-8c3c13ef64fe" />
-
-
+https://github.com/user-attachments/assets/68da8f1c-b4a2-4bb5-a310-067a4953fa70
