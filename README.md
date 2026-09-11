@@ -9,4 +9,4 @@
 - Made by Bloralis Studio.
 <img width="200" height="130" alt="Mojang Logo" src="https://github.com/user-attachments/assets/d776ac2b-207f-492b-a309-81023f207584" />
 
-- All rights go to Mojang Studio.
+- All rights go to Mojang Studios.
